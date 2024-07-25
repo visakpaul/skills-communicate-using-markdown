@@ -28,7 +28,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Add headers
+# Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
@@ -40,7 +40,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-### Example
+# Example
 
 ```md
 # This is an `<h1>` header, which is the largest
@@ -50,7 +50,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an `<h6>` header, which is the smallest
 ```
 
-#### How it looks
+# How it looks
 
 # This is an `<h1>` header, which is the largest
 
